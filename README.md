@@ -12,7 +12,7 @@ A curated portfolio of beginner, intermediate, and advanced Microsoft Excel data
   - **Gender Comparison:** Female students averaged `85.84` compared to `76.46` for male students across 50 students.
 
 ### Dashboard Preview:
-  ![Student Performance Dashboard](Dashboard_Screenshot/Screenshot%202026-11-17%20105409.png)
+  ![Student Performance Dashboard](Dashboard_Screenshot/Student-Performance-Dashboard.png)
 
 ### 2. Personal Expense & Budget Tracker
 * **File:** [Expense-Tracker.xlsx](01_Beginner_Projects/Expense-Tracker.xlsx)
