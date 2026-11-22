@@ -12,8 +12,15 @@ A curated portfolio of beginner, intermediate, and advanced Microsoft Excel data
   - **Gender Comparison:** Female students averaged `85.84` compared to `76.46` for male students across 50 students.
 
 ### Dashboard Preview:
-
-
   ![Student Performance Dashboard](Dashboard_Screenshot/Screenshot%202026-11-17%20105409.png)
 
-  
+### 2. Personal Expense & Budget Tracker
+* **File:** [Expense-Tracker.xlsx](01_Beginner_Projects/Expense-Tracker.xlsx)
+* **Tools & Formulas:** `SUM`, `SUMIFS`, `COUNTIFS`, Clustered Bar, Line with Markers, Doughnut & Column Charts
+* **Key Insights:**
+  * **Budget Utilization:** Tracked 50 transactions totaling **₹1,12,671.89** against an 11-month budget of **₹3,63,000** (**31.0%** utilized, leaving **₹2,50,328.11** remaining).
+  * **Monthly Spending Peaks:** Spending peaked in **August (₹14,257.98)** and **March (₹13,841.70)**, while dipping lowest in **October**.
+  * **Payment Mode Breakdown:** **Credit Card** led in transaction volume (**15** transactions), followed by **Cash (12)** and **UPI (9)**.
+
+### Dashboard Preview:
+![Expense Tracker Dashboard](Dashboard_Screenshot/Expense-Tracker-Dashboard.png)
