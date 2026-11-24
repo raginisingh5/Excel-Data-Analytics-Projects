@@ -24,3 +24,15 @@ A curated portfolio of beginner, intermediate, and advanced Microsoft Excel data
 
 ### Dashboard Preview:
 ![Expense Tracker Dashboard](Dashboard_Screenshot/Expense-Tracker-Dashboard.png)
+
+### 3. Sales Performance & Revenue Analysis
+* **File:** [Sales-Report.xlsx](01_Beginner_Projects/Sales-Report.xlsx)
+* **Tools & Formulas:** `SUM`, `SUMIFS`, `COUNTIFS`, `SUMPRODUCT`, Clustered Bar & Column, Line with Markers & Doughnut Charts
+* **Key Insights:**
+  * **Overall Revenue & Profitability:** Analyzed 50 sales orders generating **₹26,71,043.00** in total revenue and **₹5,26,135.04** in profit (**19.70%** overall profit margin).
+  * **Top Performing Categories:** **Furniture** and **Electronics** drove the highest revenue and profit margins across all six product categories.
+  * **Regional & Rep Highlights:** **Central (₹8,97,573)** and **East (₹8,16,807)** led regional sales, while **Sneha** ranked as the top-performing sales representative.
+  * **Monthly Revenue Peak:** Revenue surged sharply in **May**, marking the highest single-month performance of the year.
+
+**Dashboard Preview:**
+![Sales Report Dashboard](Dashboard_Screenshot/Sales-Report-Dashboard.png)
